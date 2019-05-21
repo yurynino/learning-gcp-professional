@@ -14,11 +14,17 @@ A curated list of awesome [Google Cloud Platform](https://cloud.google.com/) res
 - [Refcardas](#refcards)
 - [Twitter](#twitter)
 
+
+## [Schedule](https://docs.google.com/spreadsheets/d/1144OCxD6TkaIikRLfsN1gDnvFp59_ToG3ct3JCrAiEI/edit?usp=sharing)
+
+## Google Cloud Platform Fundamentals: Core Infrastructure
+
 ## Courses
 ## Google Cloud Platform Fundamentals: Core Infrastructure
-* [Session 1: Core Infrastructure](https://docs.google.com/presentation/d/1YqhJQPjPgL_MrG_hav4ERZVlSgxlswV6UsWrMiOBrO4/edit?usp=sharing)
-* [Session 2: Core Infrastructure](https://docs.google.com/presentation/d/181asrMHeU_SNu0gCYl1RngXeLfRKhAdVuQz599lIPnY/edit?usp=sharing)
-
+* [Slides Session 1: Core Infrastructure](https://docs.google.com/presentation/d/1YqhJQPjPgL_MrG_hav4ERZVlSgxlswV6UsWrMiOBrO4/edit?usp=sharing)
+* [Notes Session 1: Core Infrastructure](https://docs.google.com/document/d/1rHQFuyMmpNoEH19CDCbfeTPUcf_2sNmetmlqnybIG3g/edit?usp=sharing)
+* [Slides Session 2: Core Infrastructure](https://docs.google.com/presentation/d/1mCALpGQdO_B-J4LbDTiO4zW32_RQSbtjcRqtUvY_zlE/edit?usp=sharing)
+* [Notes Session 2: Core Infrastructure](https://docs.google.com/document/d/1jd46CSg1hEckkr94gD06irDUMV-dG-DhIcPejsssNEE/edit?usp=sharing)
 
 ## Essential Cloud Infrastructure: Foundation
 * [Essential Cloud Infrastructure: Foundation](https://docs.google.com/presentation/d/1j_YmrGvGjfU7s7NlyVvvdDkCwoS0HR9cD_0Y0dBritQ/edit?usp=sharing)
